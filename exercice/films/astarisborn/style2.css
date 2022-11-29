@@ -1,0 +1,28 @@
+h1{
+	text-align: center;
+	color: white;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+body{background-color: black;}
+
+.imgh{
+	float: left;
+	width: 100%;
+}
+
+p{
+	padding-top: 100px;
+	color: white;
+}
+input { 
+
+background-color:grey;
+	color:white;
+	width: 200px;
+	height: 50px;
+	border-radius: 5px;
+	font-weight: bold; 
+   margin-left: 200px;
+margin-top: 50px;}
